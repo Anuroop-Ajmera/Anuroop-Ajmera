@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anuroop-Ajmera
+- 👋 Hi, I’m Anuroop Ajmera
 - 👀 I’m interested in Data Science / Business Analytics
 - 🌱 I’m currently learning Graph Analytics
 - 💞️ I’m looking to collaborate on anything related to Analytics
